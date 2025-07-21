@@ -60,5 +60,5 @@ A modern iOS app built using *Swift* and **MVVM architecture**, designed to help
 
 ## Video link
 
- •	https://drive.google.com/file/d/1HcesMlKJxYB3ZIlWGuErYFa7-dXecmPn/view?usp=sharing
+ •	https://drive.google.com/file/d/1yOzD65rQQODHJ4TxjgYLSTUXgcz42fRI/view?usp=sharing
 
