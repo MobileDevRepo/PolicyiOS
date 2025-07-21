@@ -6,7 +6,6 @@ A modern iOS app built using *Swift* and **MVVM architecture**, designed to help
 
 ## 🛠️ Tech Stack & Architecture
        🧩 MVVM (Model-View-ViewModel) architecture for clean separation of concerns
-
        🎯 UIKit with a mix of Storyboard and Programmatic UI
        📦 Local JSON data loading simulating API calls
        🎨 Custom UI styling via reusable Extensions and Theme.swift
