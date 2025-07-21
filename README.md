@@ -37,8 +37,8 @@ A modern iOS app built using *Swift* and **MVVM architecture**, designed to help
 ## 🛠️ How to Run
  
 1. Clone this repository  
-    git clone https://github.com/MobileDevRepo/PolicyiOS.git
-    cd PolicyiOS
+    - git clone https://github.com/MobileDevRepo/PolicyiOS.git
+    - cd PolicyiOS
 
 2. Open the Xcode project
     open PolicySummary.xcodeproj
