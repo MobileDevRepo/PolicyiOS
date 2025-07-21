@@ -56,3 +56,8 @@ A modern iOS app built using *Swift* and **MVVM architecture**, designed to help
  •	Select a target simulator or physical device from the top toolbar in Xcode.
 	
 •	Press Cmd + R or click the Run ▶️ button to build and launch the app.
+
+## Video link
+
+ •	(https://drive.google.com/file/d/1HcesMlKJxYB3ZIlWGuErYFa7-dXecmPn/view?usp=sharing)
+
